@@ -1,1 +1,1 @@
-module simple-todo-app
+module gotodo
